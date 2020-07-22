@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: ' ',
   name: 'Christian Dahlberg',
-  subtitle: 'VFX Technical Assistant',
+  subtitle: 'Information Systems graduate',
   cta: 'See more',
 };
 
@@ -23,8 +23,8 @@ export const aboutData = {
   paragraphTwo:
     'I write code in Python, Java, C# (.NET), C++, C, JavaScript and others, and I am comfortable in Linux and Windows operating systems. I also have AWS certification.',
   paragraphThree:
-    'My key strength as a developer and person are, but not exclusive to; strong interpersonal and time management skills, skilled multi-tasker and problem solver with a high aptitude to learn and share own experiences. I also show great leadership qualities and analytical characteristics while working.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+    ' ',
+  resume: 'https://drive.google.com/file/d/1QNVCmR-KXT-6oXHaOruUOLSZYj8OCp_8/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -44,8 +44,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'TBD',
-    info: '',
-    info2: '',
+    info: 'Upcoming projects will appear here...',
+    info2: ' ',
     url: '',
     repo: '', // if no repo, the button will not show up
   }
