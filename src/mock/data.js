@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profilepic.png',
   paragraphOne:
-    'I am a software developer graduating top of my class from Lund University, with a BSc degree in Information Systems.',
+    'I am a software developer graduating top of my class with a BSc degree in Information Systems from Lund University in Lund, Sweden.',
   paragraphTwo:
-    'I write code in Python, Java, C# (.NET), C++, C, JavaScript and others, and I am comfortable in Linux and Windows operating systems. Some key technologies that I have worked with include, but are not exclusive to, React, Node.JS, Git, Docker, SQL and more. I also have AWS Cloud Practitioner certification.',
+    'I am a 26 year old guy born and raised in the capital of Sweden, Stockholm. I have great interest in Sofware Developing, Visual Effects, Data Science, but also Film and E-Sports.',
   paragraphThree:
-    ' ',
+    'I write code in Python, Java, C# (.NET), C++, C, JavaScript and others, and I am comfortable in Linux and Windows operating systems. Some key technologies that I have worked with include, but are not exclusive to, React, Node.JS, Git, Docker, SQL and more. I also have AWS Cloud Practitioner certification.',
   resume: 'https://drive.google.com/file/d/1QNVCmR-KXT-6oXHaOruUOLSZYj8OCp_8/view?usp=sharing', // if no resume, the button will not show up
 };
 
