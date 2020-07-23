@@ -42,16 +42,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project2.jpg',
-    title: 'Robofriends',
-    info: 'Robotify your followers on GitHub! Currently showing my followers and their GitHub URL ..robotofied.',
-    info2: 'Soon to add functionality to check your own GitHub accounts\' followers and their respective URLs. Will also add more functionality as we go.',
+    img: 'project2.JPG',
+    title: 'Robotify',
+    info: 'Robotify your followers on GitHub! Currently showing my followers and their GitHub URL ...robotified. Educational project to learn React using GitHub REST API.',
+    info2: 'Soon to add functionality to check your own GitHub accounts\' followers and their respective URLs (not just mine...). Will also add more functionality as we go. Stay tuned!',
     url: 'https://robotify.netlify.app/',
     repo: 'https://github.com/christiandahlberg/robofriends-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'asd',
     title: 'TBD',
     info: 'Upcoming projects will appear here...',
     info2: ' ',
