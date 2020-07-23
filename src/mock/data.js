@@ -42,7 +42,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project2.jpg',
     title: 'Robofriends',
     info: 'Robotify your followers on GitHub! Currently showing my followers and their GitHub URL ..robotofied.',
     info2: 'Soon to add functionality to check your own GitHub accounts\' followers and their respective URLs. Will also add more functionality as we go.',
