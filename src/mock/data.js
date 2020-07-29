@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project3.JPG',
+    img: 'smartbrain.JPG',
     title: 'SmartBrain',
     info: 'Face recognition in images using Machine Learning. Analyze pictures and identify faces. Register, sign in and start detecting! ',
     info2: 'Front-end developed in JavaScript using React. Node.js and Express.js on the server-side, with PostgreSQL as database.',
