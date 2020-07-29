@@ -31,14 +31,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project1.JPG',
-    title: 'Veronicakack.se',
-    info:
-      'My first ever commerical website done with no experience on web developing. Website is in Swedish. Nothing I am proud of but I will include this as it\'s my first commercial project ever.',
-    info2:
-      'Commercial informative website for psychotherapy as a service. Backend written in Python using Django for educational reasons.',
-    url: 'https://veronicakack.se/',
-    repo: 'https://github.com/christiandahlberg/veronicakackse-app', // if no repo, the button will not show up
+    img: 'project3.JPG',
+    title: 'SmartBrain',
+    info: 'Face recognition in images using Machine Learning. Analyze pictures and identify faces. Register, sign in and start detecting! ',
+    info2: 'Front-end developed in JavaScript using React. Node.js and Express.js on the server-side, with PostgreSQL as database.',
+    url: 'https://smartbrain-cd.herokuapp.com/',
+    repo: 'https://github.com/christiandahlberg/face-recognition-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -48,6 +46,15 @@ export const projectsData = [
     info2: 'Soon to add functionality to check your own GitHub accounts\' followers and their respective URLs (not just mine...). Will also add more functionality as we go. Stay tuned!',
     url: 'https://robotify.netlify.app/',
     repo: 'https://github.com/christiandahlberg/robofriends-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project1.JPG',
+    title: 'Veronicakack.se',
+    info: 'My first ever commerical website done with no experience on web developing. Website is in Swedish.',
+    info2: 'Commercial informative website for psychotherapy as a service. Back-end written in Python using Django for educational reasons.',
+    url: 'https://veronicakack.se/',
+    repo: 'https://github.com/christiandahlberg/veronicakackse-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
